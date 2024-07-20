@@ -3,7 +3,8 @@
 aero_hydro_pump_saver_root_maximizer.c
 
 HARDWARE PLATFORM: arduino & compatible boards, ATMEGA and compatible chips.
-Note: You may need to change the OUTPUT_PIN in code below to match your board.
+Note(s): - You may need to change the OUTPUT_PIN in code below to match your board/desires. 
+         - OUTPUT_PIN should be wired to your relay (which the pump is plugged to). 
 
 PURPOSE: Save $$$ by saving electricity and extending water/air pump life... While stimulating root growth.
 
