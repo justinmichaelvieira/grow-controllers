@@ -2,11 +2,11 @@
 
 aero_hydro_pump_saver_root_maximizer.c
 
+PURPOSE: Save $$$ by saving electricity and extending water/air pump life... While stimulating root growth.
+
 HARDWARE PLATFORM: arduino & compatible boards, ATMEGA and compatible chips.
 Note(s): - You may need to change the OUTPUT_PIN in code below to match your board/desires. 
          - OUTPUT_PIN should be wired to your relay (which the pump is plugged to). 
-
-PURPOSE: Save $$$ by saving electricity and extending water/air pump life... While stimulating root growth.
 
 DETAILED DESCRIPTION: Drives an aeroponic cloner, water, or air pump by writing high for onInterval, 
 and then low for offInterval. Fundamentally, roots in aeroponics will expand if they are 
