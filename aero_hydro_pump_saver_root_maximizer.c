@@ -24,7 +24,10 @@ Best to experiment and observe the results.
 The arduino built-in LED is used to indicate when the pump is on. This can be useful for
 troubleshooting setup... Or debugging.
 
-There's a demo simulator here: https://wokwi.com/projects/403891674345275393
+If you don't know what relay hardware to use, I really like Digital Loggers, INC's "IoT Relay":
+https://dlidirect.com/products/iot-power-relay
+
+DEMO SIMULATOR: https://wokwi.com/projects/403891674345275393
 
 */
 
