@@ -33,7 +33,7 @@ DEMO SIMULATOR: https://wokwi.com/projects/403986490224625665
 
 #include <stdbool.h>
 
-const byte OUTPUT_PIN = 12;
+const byte OUTPUT_PIN = 10;
 
 unsigned long ON_INTERVAL = 10000;   // 10 seconds
 unsigned long OFF_INTERVAL = 120000; // 2 minutes
