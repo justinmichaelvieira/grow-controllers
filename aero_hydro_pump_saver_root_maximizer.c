@@ -27,7 +27,7 @@ troubleshooting setup... Or debugging.
 If you don't know what relay hardware to use, I really like Digital Loggers, INC's "IoT Relay":
 https://dlidirect.com/products/iot-power-relay
 
-DEMO SIMULATOR: https://wokwi.com/projects/403891674345275393
+DEMO SIMULATOR: https://wokwi.com/projects/403986490224625665
 
 */
 
